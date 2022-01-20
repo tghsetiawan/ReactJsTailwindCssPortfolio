@@ -3,6 +3,7 @@ export default {
         logo: 'TS',
         links: [
             { text: 'Work', to: 'mywork'},
+            { text: 'Project', to: 'myporject'},
             { text: 'Contact', to: 'mycontact'},
         ],
     },
@@ -24,19 +25,19 @@ export default {
         title: 'Stack',
         tech:[
             {
-                img: process.env.PUBLIC_URL + '/assets/mongodb.png',
-                alt: 'mongodb',
+                img: process.env.PUBLIC_URL + '/assets/csharp.png',
+                alt: 'csharp',
+            },
+            {
+                img: process.env.PUBLIC_URL + '/assets/kotlinn.png',
+                alt: 'kotlin',
             },
             {
                 img: process.env.PUBLIC_URL + '/assets/logo512.png',
                 alt: 'react',
             },
             {
-                img: process.env.PUBLIC_URL + '/assets/mongodb.png',
-                alt: 'express',
-            },
-            {
-                img: process.env.PUBLIC_URL + '/assets/logo512.png',
+                img: process.env.PUBLIC_URL + '/assets/nodejs.png',
                 alt: 'node',
             },
         ],

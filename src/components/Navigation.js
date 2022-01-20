@@ -8,7 +8,7 @@ export default function Navigation() {
       style={{
         background: "#091c29",
       }}
-      className="sticky top-0 z-50"
+      className="sticky top-0 z-50 "
     >
       <div className="flex items-center justify-between w-10/12 mx-auto px-3 text-white font-dosis ">
         <ScrollLink to="Header" smooth={true}>

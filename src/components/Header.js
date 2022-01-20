@@ -13,7 +13,7 @@ export default function Header() {
 
   return (
     <div id="Header"
-      className="min-h-screen flex items-center justify-center"
+      className="min-h-screen flex items-center justify-center overflow-y-hidden"
       style={{
         background: "#091c29",
       }}
