@@ -5,6 +5,7 @@ import "react-lazy-load-image-component/src/effects/blur.css";
 import Typical from "react-typical";
 import { Link as ScrollLink } from "react-scroll";
 
+//comment laptop lenovo
 export default function Header() {
   const [animated, setAnimated] = useState(false);
   useEffect(() => {
