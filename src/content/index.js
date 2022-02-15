@@ -9,7 +9,7 @@ export default {
     },
     header: {
         img: 'https://images.unsplash.com/photo-1614640418303-b5785324ad63?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
-        text: ['Hi!', "It's me Random.", 'I am'],
+        text: ['Hi!', "It's me Teguh Setiawan.", 'I am'],
         typical: [
             'web developer.',
             2000,
